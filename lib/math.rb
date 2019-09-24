@@ -8,7 +8,9 @@ def subtraction(num1, num2)
   diff
 end 
 
-
+def multiplication(num1, num2)
+  
+end 
 
 
 
