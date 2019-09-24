@@ -18,6 +18,9 @@ def division(num1, num2)
   quot
 end 
 
-
+def modulo(num1, num2)
+  mod = num1 % num2
+  mod
+end 
 
 
