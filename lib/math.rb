@@ -9,7 +9,8 @@ def subtraction(num1, num2)
 end 
 
 def multiplication(num1, num2)
-  
+  prod = num1 * num2
+  prod
 end 
 
 
