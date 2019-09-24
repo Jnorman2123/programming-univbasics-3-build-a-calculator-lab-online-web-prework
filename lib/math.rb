@@ -1,30 +1,29 @@
 def addition(num1, num2)
-  num1 + num2
-end
+  sum = num1 + num2
+  sum 
+end 
 
 def subtraction(num1, num2)
-  num1 - num2
-end
-
-def division(num1, num2)
-  num1 / num2
-end
+  diff = num1 - num2
+  diff
+end 
 
 def multiplication(num1, num2)
-  num1 * num2
-end
+  prod = num1 * num2
+  prod
+end 
+
+def division(num1, num2)
+  quot = num1 / num2
+  quot
+end 
 
 def modulo(num1, num2)
-  num1 % num2
-end
+  mod = num1 % num2
+  mod
+end 
 
 def square_root(num)
-  Math.sqrt(num)
-end
-
-addition(5,4)
-subtraction(10,5)
-division(50,2)
-multiplication(4,30)
-modulo(34,5)
-square_root(81)
+  root = Math.sqrt(num) 
+  root 
+end 
