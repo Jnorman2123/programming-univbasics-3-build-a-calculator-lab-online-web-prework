@@ -13,7 +13,10 @@ def multiplication(num1, num2)
   prod
 end 
 
-
+def division(num1, num2)
+  quot = num1 / num2
+  quot
+end 
 
 
 
